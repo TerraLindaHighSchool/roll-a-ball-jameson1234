@@ -26,9 +26,9 @@ public class PlayerController : MonoBehaviour
 		// Set the count to zero 
 		count = 0;
 
-		SetCountText();
-
-		winTextObject.SetActive(false);
+        SetCountText();
+ 
+        winTextObject.SetActive(false); 
 
 	}
 
